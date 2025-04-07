@@ -44,7 +44,6 @@
 
       <div class="header-social-links">
         <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.linkedin.com/in/simran-thakur-0016182b7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="linkedin"><i class="bi bi-linkedin"></i></a>
       </div>
 
@@ -54,7 +53,7 @@
         }
       </style>
     </div>
-  </header>
+  </header> 
 
   <main class="main">
 
@@ -299,7 +298,6 @@
       <div class="social-links d-flex justify-content-center">
         <a href=""><i class="bi bi-twitter-x"></i></a>
         <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
         <a href="https://www.linkedin.com/in/simran-thakur-0016182b7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><i class="bi bi-linkedin"></i></a>
       </div>
       <div class="credits">
