@@ -261,7 +261,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h3>Location</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Sector - 39 Chandigarh</p>
                 </div>
               </div>
             </div><!-- End Info Item -->
@@ -271,7 +271,7 @@
                 <i class="bi bi-telephone flex-shrink-0"></i>
                 <div>
                   <h3>Call</h3>
-                  <p>+1 5589 55488 55</p>
+                  <p>+91 7889053435</p>
                 </div>
               </div>
             </div><!-- End Info Item -->
@@ -281,7 +281,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h3>Email</h3>
-                  <p>info@example.com</p>
+                  <p>simran.thakurx9@gmail.com</p>
                 </div>
               </div>
             </div><!-- End Info Item -->
