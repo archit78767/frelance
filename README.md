@@ -155,7 +155,7 @@
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="project/simaran.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-5 content">
             <h2>What we provide to our customer's</h2>
